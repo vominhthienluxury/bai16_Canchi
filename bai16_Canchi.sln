@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "bai16_Canchi", "bai16_Canchi.vcxproj", "{D5A4D3CF-52A8-4DE7-8B06-B5D359C82BEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5A4D3CF-52A8-4DE7-8B06-B5D359C82BEE}.Debug|x64.ActiveCfg = Debug|x64
+		{D5A4D3CF-52A8-4DE7-8B06-B5D359C82BEE}.Debug|x64.Build.0 = Debug|x64
+		{D5A4D3CF-52A8-4DE7-8B06-B5D359C82BEE}.Debug|x86.ActiveCfg = Debug|Win32
+		{D5A4D3CF-52A8-4DE7-8B06-B5D359C82BEE}.Debug|x86.Build.0 = Debug|Win32
+		{D5A4D3CF-52A8-4DE7-8B06-B5D359C82BEE}.Release|x64.ActiveCfg = Release|x64
+		{D5A4D3CF-52A8-4DE7-8B06-B5D359C82BEE}.Release|x64.Build.0 = Release|x64
+		{D5A4D3CF-52A8-4DE7-8B06-B5D359C82BEE}.Release|x86.ActiveCfg = Release|Win32
+		{D5A4D3CF-52A8-4DE7-8B06-B5D359C82BEE}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8412F70D-F46A-4740-85ED-DCB03EC14733}
+	EndGlobalSection
+EndGlobal
